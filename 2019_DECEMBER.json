@@ -1,0 +1,904 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 416323658,
+        "longitudeE7" : -862084244,
+        "placeId" : "ChIJE7_pN2TMFogRtIm5MIPNImM",
+        "address" : "17559 Battles St\nSouth Bend, IN 46614\nUSA",
+        "name" : "17559 Battles St",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1574620782
+        },
+        "locationConfidence" : 99.20031
+      },
+      "duration" : {
+        "startTimestampMs" : "1575229036869",
+        "endTimestampMs" : "1575248263537"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 416323760,
+      "centerLngE7" : -862083975,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 416341281,
+        "longitudeE7" : -862090850,
+        "placeId" : "ChIJL2zEDmTMFogR-3BdO6sg6fg",
+        "locationConfidence" : 0.7996856
+      }, {
+        "latitudeE7" : 416299733,
+        "longitudeE7" : -862084442,
+        "placeId" : "ChIJezT_u3PNFogRLTBeKc0bAoc",
+        "locationConfidence" : 2.0237137E-6
+      }, {
+        "latitudeE7" : 416302140,
+        "longitudeE7" : -862080420,
+        "placeId" : "ChIJ-XRIHGXMFogR92k0HsW7mvk",
+        "locationConfidence" : 1.7896788E-6
+      }, {
+        "latitudeE7" : 416300462,
+        "longitudeE7" : -862058927,
+        "placeId" : "ChIJD7v3XGXMFogR4nl9YQvQAHk",
+        "locationConfidence" : 1.0663672E-6
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 416323902,
+        "longitudeE7" : -862084105
+      },
+      "endLocation" : {
+        "latitudeE7" : 416324757,
+        "longitudeE7" : -862083114
+      },
+      "duration" : {
+        "startTimestampMs" : "1575248263537",
+        "endTimestampMs" : "1575252247281"
+      },
+      "distance" : 30529,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 88.10898065567017
+      }, {
+        "activityType" : "STILL",
+        "probability" : 9.92041751742363
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.9176134131848812
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.37179591599851847
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.18063370371237397
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.1612560939975083
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.13715345412492752
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.1317703048698604
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.03464051114860922
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0212144193938002
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.012237367627676576
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0017904503692989238
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 4.2301753637730144E-4
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 6.521088380395668E-5
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.0421270246752101E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 416320343,
+          "lngE7" : -862084121
+        }, {
+          "latE7" : 416320343,
+          "lngE7" : -862084808
+        }, {
+          "latE7" : 416320343,
+          "lngE7" : -862085494
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 416323902,
+          "lngE7" : -862084105,
+          "timestampMs" : "1575248263537",
+          "accuracyMeters" : 13
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 416323658,
+        "longitudeE7" : -862084244,
+        "placeId" : "ChIJE7_pN2TMFogRtIm5MIPNImM",
+        "address" : "17559 Battles St\nSouth Bend, IN 46614\nUSA",
+        "name" : "17559 Battles St",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1574620782
+        },
+        "locationConfidence" : 99.06257
+      },
+      "duration" : {
+        "startTimestampMs" : "1575252247281",
+        "endTimestampMs" : "1575479374529"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 416325092,
+      "centerLngE7" : -862083967,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 416341281,
+        "longitudeE7" : -862090850,
+        "placeId" : "ChIJL2zEDmTMFogR-3BdO6sg6fg",
+        "locationConfidence" : 0.93742764
+      }, {
+        "latitudeE7" : 416299733,
+        "longitudeE7" : -862084442,
+        "placeId" : "ChIJezT_u3PNFogRLTBeKc0bAoc",
+        "locationConfidence" : 1.1092687E-6
+      }, {
+        "latitudeE7" : 416302140,
+        "longitudeE7" : -862080420,
+        "placeId" : "ChIJ-XRIHGXMFogR92k0HsW7mvk",
+        "locationConfidence" : 2.962746E-7
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 416323658,
+        "longitudeE7" : -862084244,
+        "placeId" : "ChIJE7_pN2TMFogRtIm5MIPNImM",
+        "address" : "17559 Battles St\nSouth Bend, IN 46614\nUSA",
+        "name" : "17559 Battles St",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1574620782
+        },
+        "locationConfidence" : 94.03205
+      },
+      "duration" : {
+        "startTimestampMs" : "1576084128609",
+        "endTimestampMs" : "1576208567928"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 416326259,
+      "centerLngE7" : -862084895,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 416341281,
+        "longitudeE7" : -862090850,
+        "placeId" : "ChIJL2zEDmTMFogR-3BdO6sg6fg",
+        "locationConfidence" : 5.963414
+      }, {
+        "latitudeE7" : 416302140,
+        "longitudeE7" : -862080420,
+        "placeId" : "ChIJ-XRIHGXMFogR92k0HsW7mvk",
+        "locationConfidence" : 0.0045370404
+      }, {
+        "latitudeE7" : 416299733,
+        "longitudeE7" : -862084442,
+        "placeId" : "ChIJezT_u3PNFogRLTBeKc0bAoc",
+        "locationConfidence" : 1.072444E-6
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 416323658,
+        "longitudeE7" : -862084244,
+        "placeId" : "ChIJE7_pN2TMFogRtIm5MIPNImM",
+        "address" : "17559 Battles St\nSouth Bend, IN 46614\nUSA",
+        "name" : "17559 Battles St",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 614680863
+        },
+        "locationConfidence" : 98.72996
+      },
+      "duration" : {
+        "startTimestampMs" : "1577191994999",
+        "endTimestampMs" : "1577382187999"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 416323589,
+      "centerLngE7" : -862084033,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 416341281,
+        "longitudeE7" : -862090850,
+        "placeId" : "ChIJL2zEDmTMFogR-3BdO6sg6fg",
+        "locationConfidence" : 1.2667097
+      }, {
+        "latitudeE7" : 416299733,
+        "longitudeE7" : -862084442,
+        "placeId" : "ChIJezT_u3PNFogRLTBeKc0bAoc",
+        "locationConfidence" : 0.0033227128
+      }, {
+        "latitudeE7" : 416300462,
+        "longitudeE7" : -862058927,
+        "placeId" : "ChIJD7v3XGXMFogR4nl9YQvQAHk",
+        "locationConfidence" : 5.4462007E-6
+      }, {
+        "latitudeE7" : 416302140,
+        "longitudeE7" : -862080420,
+        "placeId" : "ChIJ-XRIHGXMFogR92k0HsW7mvk",
+        "locationConfidence" : 2.693924E-6
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 416323885,
+        "longitudeE7" : -862086452
+      },
+      "endLocation" : {
+        "latitudeE7" : 416815621,
+        "longitudeE7" : -862458240
+      },
+      "duration" : {
+        "startTimestampMs" : "1577382187999",
+        "endTimestampMs" : "1577383154304"
+      },
+      "distance" : 7272,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 90.08089900016785
+      }, {
+        "activityType" : "STILL",
+        "probability" : 7.7579498291015625
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.1150600388646126
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.5794762633740902
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.2701777499169111
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.06088821101002395
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.046791890054009855
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.03527500375639647
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.02192769607063383
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.011193827231181785
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.009097177826333791
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.006740638491464779
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0025784816898521967
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.001904960117826704
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.160165249482816E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 416314125,
+          "lngE7" : -862094573
+        }, {
+          "latE7" : 416654891,
+          "lngE7" : -862374649
+        }, {
+          "latE7" : 416815643,
+          "lngE7" : -862456893
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 416805099,
+        "longitudeE7" : -862455713,
+        "placeId" : "ChIJuXgu70fNFogRaMamnaKFpvk",
+        "address" : "415 E Madison St\nSouth Bend, IN 46617\nUSA",
+        "name" : "Oaklawn",
+        "sourceInfo" : {
+          "deviceTag" : 614680863
+        },
+        "locationConfidence" : 84.79481
+      },
+      "duration" : {
+        "startTimestampMs" : "1577383154304",
+        "endTimestampMs" : "1577386662001"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 416807500,
+      "centerLngE7" : -862451100,
+      "visitConfidence" : 96,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 416811741,
+        "longitudeE7" : -862438735,
+        "placeId" : "ChIJySDS57TNFogRk9oJhaMEgQE",
+        "locationConfidence" : 12.719424
+      }, {
+        "latitudeE7" : 416805124,
+        "longitudeE7" : -862459279,
+        "placeId" : "ChIJuXgu70fNFogR4-C-r0PT1sE",
+        "locationConfidence" : 1.4626389
+      }, {
+        "latitudeE7" : 416805277,
+        "longitudeE7" : -862452715,
+        "placeId" : "ChIJS-Yp20fNFogRg3Ha_NEgjjU",
+        "locationConfidence" : 0.7171486
+      }, {
+        "latitudeE7" : 416782812,
+        "longitudeE7" : -862439250,
+        "placeId" : "ChIJreroWjjNFogR6rgkk_Gb18o",
+        "locationConfidence" : 0.080362365
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 416799432,
+        "longitudeE7" : -862444094
+      },
+      "endLocation" : {
+        "latitudeE7" : 416303211,
+        "longitudeE7" : -862320017
+      },
+      "duration" : {
+        "startTimestampMs" : "1577386662001",
+        "endTimestampMs" : "1577389423504"
+      },
+      "distance" : 11729,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 86.79012060165405
+      }, {
+        "activityType" : "STILL",
+        "probability" : 11.541208624839783
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.9297930635511875
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.43396521359682083
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.082575180567801
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.07321411976590753
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.04283800662960857
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.03127025265712291
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.030567403882741928
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.023351651907432824
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.010923112859018147
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.004837714732275344
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0032377087336499244
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0020542442143778317
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.4200658660665795E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 416799430,
+          "lngE7" : -862443771
+        }, {
+          "latE7" : 416787643,
+          "lngE7" : -862352371
+        }, {
+          "latE7" : 416781349,
+          "lngE7" : -862352218
+        }, {
+          "latE7" : 416628837,
+          "lngE7" : -862445602
+        }, {
+          "latE7" : 416291427,
+          "lngE7" : -862438201
+        }, {
+          "latE7" : 416294403,
+          "lngE7" : -862286376
+        }, {
+          "latE7" : 416295204,
+          "lngE7" : -862134170
+        }, {
+          "latE7" : 416301307,
+          "lngE7" : -862320938
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 416781343,
+          "lngE7" : -862352948,
+          "timestampMs" : "1577386816000",
+          "accuracyMeters" : 8
+        }, {
+          "latE7" : 416293943,
+          "lngE7" : -862439830,
+          "timestampMs" : "1577387524999",
+          "accuracyMeters" : 32
+        }, {
+          "latE7" : 416294317,
+          "lngE7" : -862320563,
+          "timestampMs" : "1577387652999",
+          "accuracyMeters" : 8
+        }, {
+          "latE7" : 416295330,
+          "lngE7" : -862134165,
+          "timestampMs" : "1577388340000",
+          "accuracyMeters" : 6
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 416300936,
+        "longitudeE7" : -862330111,
+        "placeId" : "ChIJU7y_bpfMFogR8HS8nPhZoAw",
+        "address" : "1111 E Ireland Rd\nSouth Bend, IN 46614\nUSA",
+        "name" : "Broadmoor Plaza",
+        "sourceInfo" : {
+          "deviceTag" : 614680863
+        },
+        "locationConfidence" : 99.62205
+      },
+      "duration" : {
+        "startTimestampMs" : "1577389423504",
+        "endTimestampMs" : "1577391584756"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 416305163,
+          "longitudeE7" : -862319912,
+          "placeId" : "ChIJt34iWJfMFogRqtB0HDWy4Lo",
+          "address" : "1217 E Ireland Rd\nSouth Bend, IN 46614\nUSA",
+          "name" : "Kroger",
+          "sourceInfo" : {
+            "deviceTag" : 614680863
+          },
+          "locationConfidence" : 91.50164
+        },
+        "duration" : {
+          "startTimestampMs" : "1577389423504",
+          "endTimestampMs" : "1577391584756"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 416301967,
+        "centerLngE7" : -862318867,
+        "visitConfidence" : 96,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 416304127,
+          "longitudeE7" : -862315970,
+          "placeId" : "ChIJJaBJVpfMFogR2BWhJq4Saxc",
+          "locationConfidence" : 4.72132
+        }, {
+          "latitudeE7" : 416303059,
+          "longitudeE7" : -862314538,
+          "placeId" : "ChIJ8RAzVZfMFogRbHHqwrV2BWc",
+          "locationConfidence" : 2.2518756
+        }, {
+          "latitudeE7" : 416304921,
+          "longitudeE7" : -862332022,
+          "placeId" : "ChIJk5AKgJfMFogRxg3oeoj0Zzg",
+          "locationConfidence" : 0.3985166
+        }, {
+          "latitudeE7" : 416269091,
+          "longitudeE7" : -862301297,
+          "placeId" : "ChIJ56UNgZnMFogRJP6K0YqE9FY",
+          "locationConfidence" : 0.30408135
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 416301967,
+      "centerLngE7" : -862318867,
+      "visitConfidence" : 96,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 416269091,
+        "longitudeE7" : -862301297,
+        "placeId" : "ChIJ56UNgZnMFogRJP6K0YqE9FY",
+        "locationConfidence" : 0.33106735
+      }, {
+        "latitudeE7" : 416291676,
+        "longitudeE7" : -862343090,
+        "placeId" : "ChIJA9xDJ5jMFogRSczCbINBMRQ",
+        "locationConfidence" : 0.034150634
+      }, {
+        "latitudeE7" : 416289083,
+        "longitudeE7" : -862353557,
+        "placeId" : "ChIJdfv-AJjMFogRjn-nGRtcn_I",
+        "locationConfidence" : 0.0069421334
+      }, {
+        "latitudeE7" : 416317073,
+        "longitudeE7" : -862355983,
+        "placeId" : "ChIJM9hY9rzMFogRm4s1EKbL6Wk",
+        "locationConfidence" : 7.8125E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 416299362,
+        "longitudeE7" : -862316558
+      },
+      "endLocation" : {
+        "latitudeE7" : 416323616,
+        "longitudeE7" : -862084929
+      },
+      "duration" : {
+        "startTimestampMs" : "1577391584756",
+        "endTimestampMs" : "1577392423567"
+      },
+      "distance" : 2031,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 95.3519880771637
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.02871260792017
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.9937889873981476
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.4485899582505226
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.05393062601797283
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.03970070683863014
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.031273640342988074
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.025347666814923286
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.017347665561828762
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.004601929322234355
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.001780043930921238
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0015734980479464866
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.001016327314573573
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 3.3315347991447197E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 5.851991247141086E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 416299362,
+          "lngE7" : -862317123
+        }, {
+          "latE7" : 416294403,
+          "lngE7" : -862286376
+        }, {
+          "latE7" : 416320343,
+          "lngE7" : -862084960
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 416293525,
+          "lngE7" : -862273550,
+          "timestampMs" : "1577391806861",
+          "accuracyMeters" : 32
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 416323658,
+        "longitudeE7" : -862084244,
+        "placeId" : "ChIJE7_pN2TMFogRtIm5MIPNImM",
+        "address" : "17559 Battles St\nSouth Bend, IN 46614\nUSA",
+        "name" : "17559 Battles St",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : 614680863
+        },
+        "locationConfidence" : 98.70226
+      },
+      "duration" : {
+        "startTimestampMs" : "1577392423567",
+        "endTimestampMs" : "1577449636000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 416323600,
+      "centerLngE7" : -862084667,
+      "visitConfidence" : 80,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 416341281,
+        "longitudeE7" : -862090850,
+        "placeId" : "ChIJL2zEDmTMFogR-3BdO6sg6fg",
+        "locationConfidence" : 1.2977331
+      }, {
+        "latitudeE7" : 416299733,
+        "longitudeE7" : -862084442,
+        "placeId" : "ChIJezT_u3PNFogRLTBeKc0bAoc",
+        "locationConfidence" : 5.974545E-6
+      }, {
+        "latitudeE7" : 416302140,
+        "longitudeE7" : -862080420,
+        "placeId" : "ChIJ-XRIHGXMFogR92k0HsW7mvk",
+        "locationConfidence" : 1.0397124E-6
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 416315050,
+        "longitudeE7" : -862093673
+      },
+      "endLocation" : {
+        "latitudeE7" : 416832522,
+        "longitudeE7" : -862537179
+      },
+      "duration" : {
+        "startTimestampMs" : "1577449636000",
+        "endTimestampMs" : "1577450521999"
+      },
+      "distance" : 7985,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 94.75706219673157
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.336487337946892
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.0017042979598045
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.5373054649680853
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.1632939907722175
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.11832071468234062
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.03419567656237632
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.021006015595048666
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.015638823970220983
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.009909249638440087
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.0023112368580768816
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0017588239643373527
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 5.319685442373157E-4
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 4.459273895918159E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 2.5848552809293324E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 416315040,
+          "lngE7" : -862094573
+        }, {
+          "latE7" : 416654891,
+          "lngE7" : -862374649
+        }, {
+          "latE7" : 416832504,
+          "lngE7" : -862537231
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 416840704,
+        "longitudeE7" : -862514051,
+        "placeId" : "ChIJxUqH70vNFogRVJyBAG-qJck",
+        "address" : "615 N Michigan St\nSouth Bend, IN 46601\nUSA",
+        "name" : "Memorial Hospital",
+        "sourceInfo" : {
+          "deviceTag" : 614680863
+        },
+        "locationConfidence" : 99.53308
+      },
+      "duration" : {
+        "startTimestampMs" : "1577450521999",
+        "endTimestampMs" : "1577451336394"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 416841985,
+          "longitudeE7" : -862527816,
+          "placeId" : "ChIJx8iYhEvNFogRUeREtTtGrXs",
+          "address" : "621 Memorial Drive\nSouth Bend, IN 46601\nUSA",
+          "name" : "Centennial Medical Square",
+          "sourceInfo" : {
+            "deviceTag" : 614680863
+          },
+          "locationConfidence" : 13.036576
+        },
+        "duration" : {
+          "startTimestampMs" : "1577450521999",
+          "endTimestampMs" : "1577451336394"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : 416837433,
+        "centerLngE7" : -862531267,
+        "visitConfidence" : 96,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 416837976,
+          "longitudeE7" : -862532148,
+          "placeId" : "ChIJdXUAl0vNFogRTQfsQ2ajLqA",
+          "locationConfidence" : 10.926339
+        }, {
+          "latitudeE7" : 416836909,
+          "longitudeE7" : -862519755,
+          "placeId" : "ChIJt7SA70vNFogRLhBdfXYVxeE",
+          "locationConfidence" : 7.456386
+        }, {
+          "latitudeE7" : 416837976,
+          "longitudeE7" : -862532148,
+          "placeId" : "ChIJPfy1VxXSFogRNLnqz6QCbLs",
+          "locationConfidence" : 3.884908
+        }, {
+          "latitudeE7" : 416837324,
+          "longitudeE7" : -862531644,
+          "placeId" : "ChIJlwgNZ0nNFogRQ07p78NHxgA",
+          "locationConfidence" : 3.6685836
+        }, {
+          "latitudeE7" : 416837976,
+          "longitudeE7" : -862532148,
+          "placeId" : "ChIJBYWITEnNFogRTUKVL8Co0Co",
+          "locationConfidence" : 3.5404017
+        }, {
+          "latitudeE7" : 416835350,
+          "longitudeE7" : -862529755,
+          "placeId" : "ChIJl6AU1UDNFogRCWXN5Tfj6Bo",
+          "locationConfidence" : 3.0853512
+        }, {
+          "latitudeE7" : 416840173,
+          "longitudeE7" : -862531131,
+          "placeId" : "ChIJ_T4PkUvNFogRWA_4dYPQDyY",
+          "locationConfidence" : 2.6876483
+        }, {
+          "latitudeE7" : 416837607,
+          "longitudeE7" : -862531685,
+          "placeId" : "ChIJdXUAl0vNFogRPNZBAPzenBg",
+          "locationConfidence" : 2.2681391
+        }, {
+          "latitudeE7" : 416836215,
+          "longitudeE7" : -862532115,
+          "placeId" : "ChIJT0ejYXrNFogRYrc6VXMRRjE",
+          "locationConfidence" : 1.965364
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 416837433,
+      "centerLngE7" : -862531267,
+      "visitConfidence" : 96,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 416857848,
+        "longitudeE7" : -862530005,
+        "placeId" : "ChIJJ9XGfEzNFogR4kd46lYanU0",
+        "locationConfidence" : 0.16756082
+      }, {
+        "latitudeE7" : 416827593,
+        "longitudeE7" : -862512847,
+        "placeId" : "ChIJj1z2fknNFogR_jtsti42OJ0",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.13985571
+      }, {
+        "latitudeE7" : 416828240,
+        "longitudeE7" : -862527610,
+        "placeId" : "ChIJM3yipkvNFogRZZ17q47STnE",
+        "locationConfidence" : 0.13183846
+      }, {
+        "latitudeE7" : 416834857,
+        "longitudeE7" : -862506085,
+        "placeId" : "ChIJ7-v_aEnNFogRRJe2D5fB9Yw",
+        "locationConfidence" : 0.0045040078
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 416832522,
+          "lngE7" : -862537179,
+          "timestampMs" : "1577450521999",
+          "accuracyMeters" : 6
+        }, {
+          "latE7" : 416837665,
+          "lngE7" : -862530466,
+          "timestampMs" : "1577450762000",
+          "accuracyMeters" : 48
+        } ]
+      }
+    }
+  } ]
+}
